@@ -16,6 +16,4 @@
 - `POST '/api/district' Create the district`
 - `GET '/api/district' Get details of district`
 - `POST '/api/child' Create the child` 
-- `GET '/api/child' View the `
-- `PUT '/ticket/booking/:ticket_id' Update the ticket`
-- `POST '/ticket/booking/reset' Reset the system , opens up all the ticket`
+- `GET '/api/child' View the `child
